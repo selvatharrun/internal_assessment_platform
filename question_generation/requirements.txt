@@ -1,0 +1,14 @@
+chromadb
+datasets
+langchain
+langchain-chroma
+langchain-community
+langchain-huggingface
+langchain-postgres
+langchain-openai
+pandas
+psycopg[binary]
+pyarrow
+sentence-transformers
+SQLAlchemy
+langchain-openrouter
